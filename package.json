@@ -1,0 +1,10 @@
+{
+  "name": "react-notification-toast",
+  "version": "1.0.0",
+  "description": "A library that allows you to create toast notifications in a simple way in any place in an application",
+  "main": "lib/index.js",
+  "repository": "https://github.com/matkrzy/react-notification-toast.git",
+  "author": "Mateusz Krzyżanowski <matkrzy94@gmail.com>",
+  "license": "MIT",
+  "keywords": ["react", "notification", "toast"]
+}
